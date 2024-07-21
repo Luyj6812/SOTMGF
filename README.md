@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 * install.packages("ggplot2")
 
-* Install package 'Seurat' based on the Github https://github.com/YMa-lab/CARD
+* Install package 'CARD' based on the Github https://github.com/YMa-lab/CARD
 
 
 #### 3. Run SOTMGF model
